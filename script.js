@@ -1,0 +1,4 @@
+const statesCapital = {
+  'Abia': 'Umiaha'
+}
+
